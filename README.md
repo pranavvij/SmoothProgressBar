@@ -7,7 +7,7 @@ Custom Scheme can be added to ProgressBar using below code:--
         mProgress = new MaterialProgressDrawable(getApplicationContext(),circleImageView);
         mProgress.setBackgroundColor(CIRCLE_BG_LIGHT);
         mProgress.setProgressRotation(.7f);
-        mProgress.setColorSchemeColors(....);
+        mProgress.setColorSchemeColors(....);//your color Scheme can be added Programatically
         mProgress.setAlpha(255);
         mProgress.showArrow(true);
         mProgress.start();
