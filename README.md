@@ -2,7 +2,7 @@ Repository contains ProgressBar similar to OnRefreshLayout.Multiple colorscheme 
 
 Custom Scheme can be added to ProgressBar using below code:--
 
-`
+```
         circleImageView=new CircleImageView(getApplicationContext(),CIRCLE_BG_LIGHT,CIRCLE_DIAMETER/2);
         mProgress = new MaterialProgressDrawable(getApplicationContext(),circleImageView);
         mProgress.setBackgroundColor(CIRCLE_BG_LIGHT);
@@ -13,4 +13,4 @@ Custom Scheme can be added to ProgressBar using below code:--
         mProgress.start();
         circleImageView.setImageDrawable(mProgress);
 
-`
+```
