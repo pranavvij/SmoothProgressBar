@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\exploded-aar\SmoothProgressbar\smoothprogressbar2\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b69b7e91e27003f04a9d9329f959e4e0d90a69">
+        <dex dex="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\pre-dexed\debug\classes-e47a0bf505836dd50c1961ccf9f49fcc6bea737b.jar" />
+    </item>
+    <item
+        jar="C:\Users\pranav vij\Desktop\android studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1be1aad382303825c7182bacd8ed1f30fb80b0ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c1f4dd01ce4f9602f49bce479f3df6e09a1b1760.jar" />
+    </item>
+    <item
+        jar="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\pre-dexed\debug\classes-661c02933323a4e0d2047ba8221366e23fd2f4b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\pranav vij\Downloads\SmoothProgressbar\app\build\intermediates\pre-dexed\debug\classes-af387a5e7818431cb253782590d0e1f2273732d8.jar" />
+    </item>
+
+</items>
